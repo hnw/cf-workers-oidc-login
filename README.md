@@ -1,1 +1,8 @@
-# cf-workers-oidc-login
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
